@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/WCustomeBoardRoller.iml" filepath="$PROJECT_DIR$/.idea/WCustomeBoardRoller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Warhammer_GiF_Roller/Warhammer_GiF_Roller.iml" filepath="$PROJECT_DIR$/Warhammer_GiF_Roller/Warhammer_GiF_Roller.iml" />
+    </modules>
+  </component>
+</project>
